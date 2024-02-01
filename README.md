@@ -8,7 +8,8 @@
 
 ## Installation
 1. Clone the repository:
-  - git clone https://github.com/jithrew/PantryMate-SE.git
+   ```bash
+   git clone https://github.com/jithrew/PantryMate-SE.git
 2. Open the cloned folder in Visual Studio Code.
 3. Run the application using Java.
 
